@@ -1,0 +1,11 @@
+[15:45:42] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[15:45:42] [Server thread/INFO]: Loading properties
+[15:45:42] [Server thread/INFO]: Default game type: SURVIVAL
+[15:45:42] [Server thread/INFO]: Generating keypair
+[15:45:43] [Server thread/INFO]: Starting Minecraft server on minecraft-saske505.c9users.io:3000
+[15:45:43] [Server thread/INFO]: Using epoll channel type
+[15:45:43] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:45:43] [Server thread/WARN]: The exception was: java.io.IOException: Error during bind(...): Cannot assign requested address
+[15:45:43] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:45:43] [Server thread/INFO]: Stopping server
+[15:45:43] [Server Shutdown Thread/INFO]: Stopping server
